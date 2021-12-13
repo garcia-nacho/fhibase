@@ -16,9 +16,9 @@ gcc/ccp (v9 and V10)
 # Usage
 You can use this image as a standalone image   
 
-<code>git clone https://github.com/garcia-nacho/fhibase</code>
-<code> cd fhibase </code>
-<code> docker build -t garcianacho/fhibase .</code>   
+<code>git clone https://github.com/garcia-nacho/fhibase</code>    
+<code> cd fhibase </code>    
+<code> docker build -t garcianacho/fhibase .</code>    
 
 Alternativery you can download it from dockerhub   
 
